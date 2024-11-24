@@ -1,6 +1,6 @@
 # GPIO八种模式
 
-![](.\img\uTools_1730628878173.png)
+![](./img/uTools_1730628878173.png)
 
 ## GPIO内部电路图
 
